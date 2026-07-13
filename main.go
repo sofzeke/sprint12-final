@@ -1,3 +1,4 @@
+//просто для пулл реквеста
 package main
 
 import (
